@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: "Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background-color: #faf8ff;
+}
+
+/* Force autofilled inputs to keep the light theme instead of the browser's
+   default yellow/blue tint, and match our text color. */
+input:-webkit-autofill,
+input:-webkit-autofill:hover,
+input:-webkit-autofill:focus {
+  -webkit-box-shadow: 0 0 0 1000px #ffffff inset !important;
+  box-shadow: 0 0 0 1000px #ffffff inset !important;
+  -webkit-text-fill-color: #332e4d !important;
+  caret-color: #332e4d !important;
+  transition: background-color 9999s ease-in-out 0s;
+}
+
+button:focus-visible,
+input:focus-visible {
+  outline: 2px solid #7c5cfc;
+  outline-offset: 2px;
+}
