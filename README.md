@@ -14,7 +14,8 @@ https://your-live-demo.vercel.app
 
 # Screenshot
 
-<img width="1917" height="1077" alt="Project Screenshot" src="YOUR_SCREENSHOT_URL_HERE" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2e559db-c160-483e-a318-bc5c0528befd" />
+
 
 ---
 
