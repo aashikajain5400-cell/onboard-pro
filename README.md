@@ -8,7 +8,7 @@ A fully responsive multi-step onboarding wizard built with React. The applicatio
 
 > Deploy to Vercel and paste your live URL here.
 
-https://your-live-demo.vercel.app
+[https://your-live-demo.vercel.app](https://onboard-pro-gamma.vercel.app/)
 
 ---
 
